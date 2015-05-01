@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AGENDA TELEFONICA</string>
+    <string name="action_settings">Settings</string>
+    <string name="id_usuario">ID CONTACTOS:</string>
+    <string name="user">TELEFONO:</string>
+
+    <string name="nombre">NOMBRE:</string>
+    <string name="apellidop">APELLIDO PATERNO:</string>
+    <string name="apellidom">APELLIDO MATERNO:</string>
+    <string name="localidadd">LOCALIDAD:</string>
+
+    <string name="sexoo">SEXO:</string>
+    <string name="años">EDAD:</string>
+
+
+    <string name="alta">REGISTRAR</string>
+    <string name="baja">BORRAR</string>
+    <string name="consulta">BUSCAR</string>
+    <string name="modificar">MODIFICAR</string>
+    <string name="limpiar">LIMPIAR</string>
+
+</resources>
